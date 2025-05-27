@@ -2,7 +2,7 @@
  Analyze a Phishing Email Sample
 
 Sender’s Email Address
-   "noreplydhi@securemygateway.com" It clearly show that it is a fake Microsoft email address and it should be avoided
+   "noreplydhi@securemygateway.com" It clearly show that it is a fake DHL email address and it should be avoided
 
 Checking email header
   The header are shown in this picture is not enough
