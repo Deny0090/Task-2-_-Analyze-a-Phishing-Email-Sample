@@ -1,64 +1,7 @@
 # Task-2-_-Analyze-a-Phishing-Email-Sample
- Analyze a Phishing Email Sample
-
-Sender’s Email Address
-   "noreplydhi@securemygateway.com" It clearly show that it is a fake DHL email address and it should be avoided
-
-Checking email header
-  The header are shown in this picture is not enough
-      From: noreplydhi@securemygateway.com 
-      Subject: DHI Shipping Invoice 
-  
-  Headers like :
-    * From, To, Subject
-    * Date, Return-Path, Received fields
-    
-   Analyze these Headers using online tools like (https://toolbox.googleapps.com/apps/messageheader/ , https://mxtoolbox.com/EmailHeaders.aspx)
-
-Identify Suspicious Link/File
-   
-    In this email there is a link named "Document/Invoice Receipt" but it actually leads to a malicious website that can obtain your credential.
-    The Attachments like "Invoice.zip" or "Document.exe" may contain malware.
-
-Urgent or threatening language
-   
-    Some of phishing emails contains Phrases like:
-     * Your account will be suspended in 24 hours!
-     * Immediate action required—verify your credentials now.
-   
-    this is method phycological method of a hacker to download/click the suspicious links
-
-Mismatched URLs
-   
-    Use hover method like moving your mouse cursor over a link, button, or element on a screen without clicking it. In the context of phishing emails, hovering over a link reveals the actual URL
-    in this example of Phishing email the Link shows "Document/Invoice Receipt" using hover method we can see the real malicious link hide behind the text
-
-Spelling/Grammar Errors
-
-   You can also check for any spelling errors like "Dear Costumer, you’re account has been locked" and poor grammar
-   in this provided example there grammar issues like (Your parcel sent by your customer arrived at our office, etc..)
-
-Summary of Phishing Traits
- 
- 
-
-1. Fake Sender:
-   - `noreplydhi@securemygateway.com` (spoofed address).  
-
-2. Suspicious Link:
-   - "Document/Invoice Receipt" hides malicious URL (hover to check).  
-
-3. Urgent Language:
-   - "Immediate action required!" (pressure tactic).  
-
-4. Grammar Errors:
-   - "Your parcel sent by your customer..." (poor phrasing).  
-
-5. Risky Attachment:
-   - "Invoice.zip" (may contain malware).  
-
- Action:
-   - Delete & Report** – Never click links/download files.  
-
-
-  
+  1) Find a Phinghish email example in google
+  2) Anlyze sender in the email
+  3) Analyze Headers in the email
+  4) Anlyze file/link in the email
+  5) Analyze grammer/spelling in the email
+  6) Created a summary about the Phishing Email
